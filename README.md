@@ -42,8 +42,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 ## 📚 ÍNDICE
 
-[🗺️ Back-end roadmap](#-back-end-roadmap)
-[🐧 Linux](-linux)
+[🗺️ Back-end roadmap](#-back-end-roadmap) <br>
+[🐧 Linux](-Linux-)
 []()
 []()
 []()
