@@ -249,35 +249,35 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 ## ◾ SQL
 
->
+> Structured Query Language, ou Linguagem de Consulta Estruturada ou SQL, é a linguagem de pesquisa declarativa padrão para banco de dados relacional. Muitas das características originais do SQL foram inspiradas na álgebra relacional.
 
-- []()
-- []()
-- []()
+- [SQL - W3Schools](https://www.w3schools.com/sql/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação do SQL](https://docs.microsoft.com/pt-br/sql/?view=sql-server-ver15) - Documentação Oficial do SQL em inglês
+- [Cursos de SQL](#) - Cursos de SQL diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ MySQL
 
->
+> O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface. É atualmente um dos sistemas de gerenciamento de bancos de dados mais populares da Oracle Corporation, com mais de 10 milhões de instalações pelo mundo.
 
-- []()
-- []()
-- []()
+- [MySQL - W3Schools](https://www.w3schools.com/mysql/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação do MySQL](https://dev.mysql.com/doc/) - Documentação Oficial do MySQL em inglês
+- [Cursos de MySQL](#) - Cursos de MySQL diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ ASP.net
 
->
+> ASP.NET é a plataforma da Microsoft para o desenvolvimento de aplicações Web e é o sucessor da tecnologia ASP. Permite, através de uma linguagem de programação integrada na .NET Framework, criar páginas dinâmicas. Não é nem uma linguagem de programação como VBScript, PHP, nem um servidor web como IIS ou Apache.
 
-- []()
-- []()
-- []()
+- [ASP - W3Schools](https://www.w3schools.com/asp/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação do ASP.net](https://docs.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-6.0) - Documentação Oficial do PostgreeSQL em PT-BR.
+- [Cursos de ASP.net](#) - Cursos de ASP.net diretamente do repositório geral do Guia Dev Brasil.
 
-## ◾ RaspberRy PI
+## ◾ RaspberRy Pi
 
->
+> Raspberry Pi é uma série de mini-computadores de placa única multiplataforma, de tamanho reduzido com componentes integrados, que se conecta a um monitor de computador ou televisão, e usa um teclado e um mouse padrão.
 
-- []()
-- []()
-- []()
+- [Raspberry Pi - W3Schools](https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação do Raspberry Pi](https://www.raspberrypi.com/documentation/) - Documentação Oficial do PostgreeSQL em inglês
+- [Curso de Raspberry Pi](#) - Cursos de Raspberry Pi diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ AWS Cloud
 
