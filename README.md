@@ -190,75 +190,62 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 ## ◾ Grunt
 
->
+> Grunt é um executor de tarefas JavaScript, uma ferramenta usada para executar automaticamente tarefas frequentes, como minificação, compilação, teste de unidade e fiapos. Ele usa uma interface da linha de comandos para executar tarefas personalizadas definidas em um arquivo.
 
-- []()
-- []()
-- []()
+- [Documentação do Grunt](https://gruntjs.com/getting-started) - Documentação oficial do Grunt em inglês.
+- [Cursos de Grunt](#) - Cursos de Grunt diretamente do repositório geral do Guia Dev Brasil.
 
-## ◾ Gulp
+## ◾ Gulp.js
 
->
+> Gulp. js é uma ferramenta de automação de tarefas em JavaScript. Tarefas como minificar, otimizar e compilar arquivos, tão repetitivas e necessárias ao desenvolvimento, podem ser automatizadas com o Gulp.
 
-- []()
-- []()
-- []()
+- [Documentação do Gulp](https://gulpjs.com/docs/en/getting-started/quick-start) - Documentação oficial do Gulp em inglês.
+- [Cursos de Gulp.js](#) - Cursos de Gulp.js diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ Lua
 
->
+> Lua é uma linguagem de programação interpretada, de script em alto nível, com tipagem dinâmica e multiparadigma, reflexiva e leve, projetada por Tecgraf da PUC-Rio em 1993 para expandir aplicações em geral, de forma extensível, para prototipagem e para ser embarcada em softwares complexos, como jogos.
 
-- []()
-- []()
-- []()
+- [Documentação da linguagem Lua](https://www.lua.org/portugues.html#:~:text=O%20que%20%C3%A9%20Lua%3F,dados%20e%20descri%C3%A7%C3%A3o%20de%20dados.)
+- [Cursos de Lua](#) - Cursos de Lua diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ Django
 
->
+> Django é um framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão model-template-view, usado em grandes empresas como o Instagram, Mozilla e o Pinterest, o Django Framework atrai atenção dos desenvolvedores de python porque permite a criação de aplicações web com processos muito otimizados.
 
-- []()
-- []()
-- []()
-
-## ◾ TypeScript
-
->
-
-- []()
-- []()
-- []()
+- [Django - W3Schools](https://www.w3schools.com/django/index.php) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação do Django](https://docs.djangoproject.com/en/4.0/) - Documentação do Django em inglês.
+- [Cursos de Django](#) - Cursos de Django diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ Node.js
 
->
+> O Node. js é um ambiente de execução na porta 80 padrão,baseado na pilha da web aberta (HTML, CSS e JS). Ou seja, é uma plataforma em que é possível criar aplicações Javascript sem depender de um browser para a execução. Sua execução em single-thread não exige resposta a cada requisição.
 
-- []()
-- []()
-- []()
+- [Node.js - W3Schools](https://www.w3schools.com/nodejs/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação do Node.js](https://nodejs.org/en/docs/) - Documentação do Node.js em inglês.
+- [Cursos de Node.js](#) - Cursos de Node.js diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ Ext.js
 
->
+> ExtJS é um framework de aplicações Java Script puro que funciona em qualquer Browser, desde do IE6 para até a mais recente versão do Chrome. Ele permite que você criar as melhores aplicações multiplataformas usando nada além de um Browser, e tem uma API fenomenal.
 
-- []()
-- []()
-- []()
+- [Documentação do Ext.js](https://docs.sencha.com/extjs/6.2.0/) - Documentação oficial do ExtJS em inglês.
+- [Cursos de Ext.js](#) - Cursos de Ext.js diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ MongoDB
 
->
+> MongoDB é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++. Classificado como um programa de banco de dados NoSQL, o MongoDB usa documentos semelhantes a JSON com esquemas.
 
-- []()
-- []()
-- []()
+- [Documentação do MongoDB](https://www.mongodb.com/docs/) - Documentação Oficial do MongoDB em inglês.
+- [Cursos de MongoDB](#) - Cursos de MongoDB diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ PostgreeSQL
 
->
+> PostgreSQL é um sistema gerenciador de banco de dados objeto-relacional baseado no POSTGRES, Versão 4.2, desenvolvido na Universidade da Califórnia no Departamento de Ciências da Computação em Berkeley, o qual foi pioneiro em muitos conceitos que vieram a estar disponíveis em alguns bancos de dados comerciais mais tarde.
 
-- []()
-- []()
-- []()
+- [Documentação do PostgreeSQL](https://www.postgresql.org/docs/) - Documentação Oficial do PostgreeSQL em inglês
+- [Documentação do PostgreeSQL em PT-BR](https://ftp.unicamp.br/pub/apoio/postgresql/pgdocptbr800-1.2.pdf) - Documentação do PostgreeSQL em PT-BR
+- [Cursos de PostgreeSQL](#) - Cursos de PostgreeSQL diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ SQL
 
