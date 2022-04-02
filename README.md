@@ -125,86 +125,353 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 ## ◾ C++
 
+> C++ é uma linguagem de programação compilada multi-paradigma e de uso geral, é usado para o desenvolvimento de sistemas embarcados, bibliotecas gráficas, jogos, sistemas operacionais, entre outros, permitindo desenvolver desde tarefas simples como aplicações na linha de comando ou web, até sistemas complexos de tempo real, muito usadas no mercado financeiro. No ensino acadêmico, ela tem grande aceitação porque abrange as linguagens de alto e baixo nível e é open source.
+
+- [C++ - W3Schools](https://www.w3schools.com/cpp/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação da linguagem C++](https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-170) - Documentação oficial da linguagem C++ em PT-BR
+- [Cursos de C++](https://github.com/arthurspk/guiadevbrasil#-cursos-de-c-2) - Cursos de C++ diretamente do repositório geral do Guia Dev Brasil
+
 ## ◾ C#
+
+> C# é uma linguagem de programação, multiparadigma, de tipagem forte, desenvolvida pela Microsoft como parte da plataforma .NET. A sua sintaxe orientada a objetos foi baseada no C++ mas inclui muitas influências de outras linguagens de programação, como Object Pascal e, principalmente, Java.
+
+- [Tour pela linguagem C#](https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/) - Um pouco mais sobre a linguagem C# e o que ela pode fazer.
+- [C# - W3Schools](https://www.w3schools.com/cs/index.php) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação da linguagem C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Documentação oficial da linguagem C# em PT-BR
+- [Cursos de C#](https://github.com/arthurspk/guiadevbrasil#-cursos-de-c) - Cursos de C# diretamente do repositório geral do Guia Dev Brasil
 
 ## ◾ R
 
+> R é uma linguagem de programação multi-paradigma orientada a objetos, programação funcional, dinâmica, fracamente tipada, voltada à manipulação, análise e visualização de dados, dessa forma, a linguagem de programação R auxilia na coleta, tratamento e transformação desses dados. Além disso, ela é responsável por ajudar na implementação de algoritmos para realizar análise estatísticas, modelos de inferência, regressão e visualização de dados
+
+- [R - W3Schools](https://www.w3schools.com/r/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação da linguagem R](https://www.r-project.org/other-docs.html) - Documentação oficial da linguagem R, não está disponivel em PT-BR mas pode ser traduzida para o idioma de sua escolha pelo google translate.
+- [Cursos de R](#) - Cursos de R diretamente do repositório geral do Guia Dev Brasil
+
 ## ◾ Kotlin
+
+> Kotlin é uma linguagem de programação de código aberto estática, compatível com programação orientada a objetos e funcional. O Kotlin fornece sintaxe e conceitos semelhantes de outras linguagens, incluindo C#, Java e Scala, entre muitos outros, é uma linguagem de programação amplamente usada por desenvolvedores Android em qualquer lugar.
+
+- [Kotlin - W3Schools](https://www.w3schools.com/kotlin/index.php) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação da linguagem Kotlin](https://kotlinlang.org/docs/home.html) - Documentação oficial da linguagem Kotlin, não está disponivel em PT-BR mas pode ser traduzida para o idioma de sua escolha pelo google translate.
+- [Cursos de Kotlin](https://github.com/arthurspk/guiadevbrasil#-cursos-de-kotlin) - Cursos de Kotlin diretamente do repositório geral do Guia Dev Brasil
 
 ## ◾ Go
 
+> O Golang é uma linguagem explicitamente projetada, destinada a resolver problemas com linguagens e ferramentas existentes, enquanto aproveita nativamente as arquiteturas de hardware modernas. Ela foi projetada não só com equipes de desenvolvedores em mente, mas também com equipes de manutenção a longo prazo.
+
+- [GO - W3Schools](https://www.w3schools.com/go/index.php) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação da linguagem GO](https://go.dev/doc/) - Documentação oficial da linguagem GO, não está disponivel em PT-BR mas pode ser traduzida para o idioma de sua escolha pelo google translate.
+- [Cursos de GO](https://github.com/arthurspk/guiadevbrasil#-cursos-de-go) - Cursos de GO diretamente do repositório geral do Guia Dev Brasil.
+
 ## ◾ PHP
 
-## ◾ Ruby
+> O PHP (um acrônimo recursivo para PHP: Hypertext Preprocessor ) é uma linguagem de script open source de uso geral, muito utilizada, e especialmente adequada para o desenvolvimento web e que pode ser embutida dentro do HTML.
 
-## ◾ Grunt
-
-## ◾ Gulp
-
-## ◾ Lua
-
-## ◾ Django
+- [PHP - W3Schools](https://www.w3schools.com/php/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação da linguagem PHP](https://www.php.net/manual/pt_BR/index.php) - Documentação oficial da linguagem PHP em PT-BR
+- [Cursos de PHP](https://github.com/arthurspk/guiadevbrasil#-cursos-de-php) - Cursos de PHP diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ TypeScript
 
+> Trata-se de uma ferramenta que permite escrever um código, fazendo programações orientadas a objetos sem perder suas vantagens. Ao compilar um código TypeScript, é gerado um código JavaScript, e esse código é o que será executado no browser
+
+- [TypeScript - W3Schools](https://www.w3schools.com/typescript/index.php) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação da linguagem TypeScript](https://www.typescriptlang.org/docs/) - Documentação oficial da linguagem TypeScript, não está disponivel em PT-BR mas pode ser traduzida para o idioma de sua escolha pelo google translate.
+- [Curso de TypeScript](#) - Cursos de TypeScript diretamente do repositório geral do Guia Dev Brasil.
+
+## ◾ Ruby
+
+> Ruby é uma linguagem de programação relativamente nova. É interpretada multiparadigma, possui uma tipagem dinâmica e ainda tem um gerenciamento de memória automático. É também uma linguagem multiplataforma, sendo assim suportada por diversos tipo de sistemas operacionais, Windows, Linux, entre outros, muitas aplicações famosas utilizam o Ruby, como os sites Airbnb e SoundCloud, a rede social Twitch e o site de streaming de séries e filmes Hulu. O Ruby pode ser muito útil, pois serve para criar diversos programas para desktop.
+
+- [Ruby em 20 minutos](https://www.ruby-lang.org/pt/documentation/quickstart/) - Este é um pequeno tutorial de Ruby que não deverá demorar mais de 20 minutos para completar.
+- [Documentação da linguagem Ruby](https://www.ruby-lang.org/pt/documentation/) - Documentação oficial da linguagem Ruby em PT-BR
+- [Cursos de Ruby](https://github.com/arthurspk/guiadevbrasil#-cursos-de-ruby) - Cursos de Ruby diretamente do repositório geral do Guia Dev Brasil.
+
+## ◾ Grunt
+
+>
+
+- []()
+- []()
+- []()
+
+## ◾ Gulp
+
+>
+
+- []()
+- []()
+- []()
+
+## ◾ Lua
+
+>
+
+- []()
+- []()
+- []()
+
+## ◾ Django
+
+>
+
+- []()
+- []()
+- []()
+
+## ◾ TypeScript
+
+>
+
+- []()
+- []()
+- []()
+
 ## ◾ Node.js
+
+>
+
+- []()
+- []()
+- []()
 
 ## ◾ Ext.js
 
+>
+
+- []()
+- []()
+- []()
+
 ## ◾ MongoDB
+
+>
+
+- []()
+- []()
+- []()
 
 ## ◾ PostgreeSQL
 
+>
+
+- []()
+- []()
+- []()
+
 ## ◾ SQL
+
+>
+
+- []()
+- []()
+- []()
 
 ## ◾ MySQL
 
+>
+
+- []()
+- []()
+- []()
+
 ## ◾ ASP.net
+
+>
+
+- []()
+- []()
+- []()
 
 ## ◾ RaspberRy PI
 
+>
+
+- []()
+- []()
+- []()
+
 ## ◾ AWS Cloud
+
+>
+
+- []()
+- []()
+- []()
 
 ## ◾ IA - Inteligência artificial
 
+>
+
+- []()
+- []()
+- []()
+
 ## ◾ Machine Learning
+
+>
+
+- []()
+- []()
+- []()
 
 ## ◾ Data Science
 
+>
+
+- []()
+- []()
+- []()
+
 ## ◾ NumPy
+
+>
+
+- []()
+- []()
+- []()
 
 ## ◾ Pandas
 
+>
+
+- []()
+- []()
+- []()
+
 ## ◾ SciPy
+
+>
+
+- []()
+- []()
+- []()
 
 ## ◾ Metplotlib
 
+>
+
+- []()
+- []()
+- []()
+
 ## ◾ Statistics
+
+>
+
+- []()
+- []()
+- []()
 
 ## ◾ XML
 
+>
+
+- []()
+- []()
+- []()
+
 ## ◾ XML AJAX
+
+>
+
+- []()
+- []()
+- []()
 
 ## ◾ XML DOM
 
+>
+
+- []()
+- []()
+- []()
+
 ## ◾ XML DTD
+
+>
+
+- []()
+- []()
+- []()
 
 ## ◾ XML Schema
 
+>
+
+- []()
+- []()
+- []()
+
 ## ◾ XSLT
+
+>
+
+- []()
+- []()
+- []()
 
 ## ◾ XPath
 
+>
+
+- []()
+- []()
+- []()
+
 ## ◾ XQuery
+
+>
+
+- []()
+- []()
+- []()
 
 ## ◾ API Rest
 
+>
+
+- []()
+- []()
+- []()
+
 ## ◾ API Json
+
+>
+
+- []()
+- []()
+- []()
 
 ## ◾ Padrões de arquitetura
 
+>
+
+- []()
+- []()
+- []()
+
 ## ◾ Principios de design e desenvolvimento
+
+>
+
+- []()
+- []()
+- []()
 
 ## ◾ Motores de Busca
 
+>
+
+- []()
+- []()
+- []()
+
 ## ◾ Docker
+
+>
+
+- []()
+- []()
+- []()
