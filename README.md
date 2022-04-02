@@ -113,7 +113,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 - [Java - W3Schools](https://www.w3schools.com/java/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
 - [Documentação da linguagem Java](https://docs.oracle.com/javase/8/docs/api/) - A documentação do Java encontra-se em inglês porém você pode usar uma extensão ou o google translater para traduzir
-- [Cursos de Java](https://github.com/arthurspk/guiadevbrasil#-cursos-de-java) - Cursos de Python diretamente do repositório geral do Guia Dev Brasil.
+- [Cursos de Java](https://github.com/arthurspk/guiadevbrasil#-cursos-de-java) - Cursos de Java diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ C
 
@@ -281,155 +281,152 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 ## ◾ AWS Cloud
 
->
+> Amazon Web Services, também conhecido como AWS, é uma plataforma de serviços de computação em nuvem, que formam uma plataforma de computação na nuvem oferecida pela Amazon.com. Os serviços são oferecidos em várias áreas geográficas distribuídas pelo mundo.
 
-- []()
-- []()
-- []()
+- [AWS Cloud - W3Schools](https://www.w3schools.com/aws/index.php)
+- [Documentação do AWS](https://docs.aws.amazon.com/)
+- [Cursos de AWS](#)
 
 ## ◾ IA - Inteligência artificial
 
->
+> Inteligência artificial é a inteligência similar à humana exibida por sistemas de software, além de também ser um campo de estudo acadêmico.
 
-- []()
-- []()
-- []()
+- [IA - W3Schools](https://www.w3schools.com/ai/default.asp)
+- [Inteligência artificial - O que é IA?](https://mittechreview.com.br/topicos/inteligencia-artificial/)
+- [Cursos de Inteligência Artificial](#)
 
 ## ◾ Machine Learning
 
->
+> O aprendizado automático ou a aprendizagem automática ou também aprendizado de máquina ou aprendizagem de máquina é um subcampo da Engenharia e da ciência da computação que evoluiu do estudo de reconhecimento de padrões e da teoria do aprendizado computacional em inteligência artificial.
 
-- []()
-- []()
-- []()
+- [Machine Learning - W3Schools](https://www.w3schools.com/python/python_ml_getting_started.asp)
+- [Documentação do Azure Machine Learning](https://docs.microsoft.com/pt-br/azure/machine-learning/)
+- [Cursos de Machine Learning](#)
 
 ## ◾ Data Science
 
->
+> Ciência de dados é uma área interdisciplinar voltada para o estudo e a análise de dados econômicos, financeiros e sociais, estruturados e não-estruturados, que visa a extração de conhecimento, detecção de padrões e/ou obtenção de insights para possíveis tomadas de decisão.
 
-- []()
-- []()
-- []()
+- [Data Science - W3School](https://www.w3schools.com/datascience/default.asp)
+- [Ferramentas e organização em um projeto de Data Science](https://medium.com/dftblog/ferramentas-que-uso-e-como-organizo-um-projeto-de-data-science-5fd400ea26fe)
+- [Cursos de Data Science](#)
 
 ## ◾ NumPy
 
->
+> NumPy é uma biblioteca para a linguagem de programação Python, que suporta o processamento de grandes, multi-dimensionais arranjos e matrizes, juntamente com uma grande coleção de funções matemáticas de alto nível para operar sobre estas matrizes.
 
-- []()
-- []()
-- []()
+- [NumPy - W3Schools](https://www.w3schools.com/python/numpy/default.asp)
+- [Documentação do NumPy](https://numpy.org/doc/stable/)
+- [Cursos de ](#)
 
 ## ◾ Pandas
 
->
+> Em programação de computadores, pandas é uma biblioteca de software criada para a linguagem Python para manipulação e análise de dados. Em particular, oferece estruturas e operações para manipular tabelas numéricas e séries temporais. É software livre sob a licensa licença BSD.
 
-- []()
-- []()
-- []()
+- [Pandas - W3Schools](https://www.w3schools.com/python/pandas/default.asp)
+- [Documentação do Pandas](https://pandas.pydata.org/docs/)
+- [Cursos de ](#)
 
 ## ◾ SciPy
 
->
+> SciPy é uma biblioteca Open Source em linguagem Python que foi feita para matemáticos, cientistas e engenheiros. Também tem o nome de uma popular conferência de programação científica com Python. A sua biblioteca central é NumPy que fornece uma manipulação conveniente e rápida de um array N-dimensional.
 
-- []()
-- []()
-- []()
+- [SciPy - W3Schools](https://www.w3schools.com/python/scipy/index.php)
+- [Documentação do SciPy](https://docs.scipy.org/doc/scipy/)
+- [Cursos de ](#)
 
-## ◾ Metplotlib
+## ◾ Matplotlib
 
->
+> Matplotlib é uma biblioteca de software para criação de gráficos e visualizações de dados em geral, feita para e da linguagem de programação Python e sua extensão de matemática NumPy. Originalmente criada pelo biólogo e neurocientista americano John D
 
-- []()
-- []()
-- []()
+- [Matplotlib - W3Schools](https://www.w3schools.com/python/matplotlib_intro.asp)
+- [Documentação do Matplotlib](https://devdocs.io/matplotlib~3.1/)
+- [Cursos de ](#)
 
-## ◾ Statistics
+## ◾ Estatística
 
->
+> Estatística é a ciência que utiliza as teorias probabilísticas para explicar a frequência da ocorrência de eventos, tanto em estudos observacionais quanto em experimentos para modelar a aleatoriedade e a incerteza de forma a estimar ou possibilitar a previsão de fenômenos futuros, conforme o caso.
 
-- []()
-- []()
-- []()
+- [Estatística - W3Schools](https://www.w3schools.com/statistics/index.php)
+- [Cursos de Estatística](#)
 
 ## ◾ XML
 
->
+> XML é uma recomendação da W3C para gerar linguagens de marcação para necessidades especiais. É um dos subtipos da SGML capaz de descrever diversos tipos de dados. Seu propósito principal é a facilidade de compartilhamento de informações por intermédio da internet.
 
-- []()
-- []()
-- []()
+- [XML - W3Schools](https://www.w3schools.com/xml/default.asp)
+- [Documentação do XML](https://docs.microsoft.com/pt-br/dotnet/fsharp/language-reference/xml-documentation#:~:text=Coment%C3%A1rios%20em%20documenta%C3%A7%C3%A3o%20XML%20s%C3%A3o,XML%20em%20tempo%20de%20compila%C3%A7%C3%A3o.)
+- [Cursos de XML](#)
 
 ## ◾ XML AJAX
 
->
+> Ajax é o uso metodológico de tecnologias como Javascript e XML, providas por navegadores, para tornar páginas Web mais interativas com o usuário, utilizando-se de solicitações assíncronas de informações. Foi inicialmente desenvolvida pelo estudioso Jessé James Garret e mais tarde por diversas associações.
 
-- []()
-- []()
-- []()
+- [XML Ajax - W3Schools](https://www.w3schools.com/xml/ajax_intro.asp)
+- [Ajax - MDN](https://developer.mozilla.org/pt-BR/docs/Web/Guide/AJAX)
+- [Cursos de Ajax](#)
 
 ## ◾ XML DOM
 
->
+> A classe do DOM (Document Object Model) XML é uma representação na memória de um documento XML. O DOM permite que você leia, manipule e modifique programaticamente um documento XML. A classe XmlReader também lê XML. No entanto, ela fornece acesso não armazenado em cache, apenas de encaminhamento e somente leitura.
 
-- []()
-- []()
-- []()
+- [XML DOM - W3Schools](https://www.w3schools.com/xml/dom_intro.asp)
+- [Modelo de Objeto de Documento (DOM)](https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model)
+- [Cursos de DOM](#)
 
 ## ◾ XML DTD
 
->
+> Uma definição de tipo de documento é um conjunto de declarações de marcação que definem um tipo de documento para uma linguagem de marcação da família da SGML. Uma Definição de Tipo de Documento define os blocos de construção lícitos de um documento XML.
 
-- []()
-- []()
-- []()
+- [XML DTD - W3Schools](https://www.w3schools.com/xml/xml_dtd_intro.asp)
+- [Documentos com DTDs](https://www.gta.ufrj.br/grad/00_1/miguel/link6.htm)
+- [Cursos de XML DTD](#)
 
 ## ◾ XML Schema
 
->
+> XML Schema é uma linguagem baseada no formato XML para definição de regras de validação em documentos no formato XML. Foi a primeira linguagem de esquema para XML a obter o status de recomendação por parte do W3C. Esta linguagem é uma alternativa ao DTD, cuja sintaxe não é baseada no formato XML.
 
-- []()
-- []()
-- []()
+- [XML Schema - W3Schools](https://www.w3schools.com/xml/schema_intro.asp)
+- [XML Schema para documentos XML](https://www.devmedia.com.br/um-estudo-sobre-o-xml-schema-para-documentos-xml/5264)
+- [Cursos de XML](#)
 
 ## ◾ XSLT
 
->
+> XSL Transformations, ou XSLT, é uma linguagem de marcação XML usada para criar documentos XSL que, por sua vez, definem a apresentação dos documentos XML nos browsers e outros aplicativos que os suportem. É importante observar que o documento XSL não altera o documento XML original, ou seja, não cria outro documento.
 
-- []()
-- []()
-- []()
+- [XLST - W3Schools](https://www.w3schools.com/xml/xsl_intro.asp)
+- [Introdução ao XSLT](https://medium.com/@alexjosesilva/aplica%C3%A7%C3%B5es-com-xslt-xls-ed384482817c)
+- [Cursos de XSLT](#)
 
 ## ◾ XPath
 
->
+> XPath, a XML Path Language, é uma linguagem de consulta para selecionar nós de um documento XML. Ademais, XPath pode ser usada para computar valores do conteúdo de um documento XML. XPath foi definido pelo World Wide Web Consortium
 
-- []()
-- []()
-- []()
+- [XPath - W3Schools](https://www.w3schools.com/xml/xpath_intro.asp)
+- [Documentação do XPath](https://docs.microsoft.com/pt-br/dotnet/standard/data/xml/xpath-queries-and-namespaces)
+- [Cursos de XPath](#)
 
 ## ◾ XQuery
 
->
+> XQuery é uma linguagem de consulta, com alguns recursos de programação, que é projetada para fazer consultas em coleções de dados em XML. Ela é semanticamente similar ao SQL. XQuery foi desenvolvido pelo grupo de trabalho XML Query do W3C. Foi desenvolvido em colaboração com o XSLT 2.0 pelo Grupo de Trabalho XSL.
 
-- []()
-- []()
-- []()
+- [XQuery - W3Schools](https://www.w3schools.com/xml/xquery_intro.asp)
+- [Documentação do XQuery](https://docs.microsoft.com/pt-br/sql/xquery/xquery-language-reference-sql-server?view=sql-server-ver15)
+- [Cursos de XQuery](#)
 
 ## ◾ API Rest
 
->
+> Representational State Transfer, em português Transferência Representacional de Estado, é um estilo de arquitetura de software que define um conjunto de restrições a serem usadas para a criação de web services.
 
-- []()
-- []()
-- []()
+- [O que é API rest?](https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api)
+- [Cursos de API Rest](#)
 
 ## ◾ API Json
 
->
+> A API JSON é um formato que funciona com HTTP. Ele descreve como os clientes devem solicitar ou editar dados de um servidor e como o servidor deve responder a essas solicitações.
 
-- []()
-- []()
-- []()
+- [Uma especicação para construit API'S em JSon](https://jsonapi.org/)
+- [Cursos de API Json](#)
 
 ## ◾ Padrões de arquitetura
 
