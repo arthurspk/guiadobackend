@@ -104,12 +104,24 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 > Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Um dos usos do Python é automatizar tarefas, no entanto, a linguagem também permite coletar, organizar e salvar informações de páginas na internet; monitorar redes sociais; construir um site ou app; criar jogos; rodar algoritmos de machine learning; criar aplicações de inteligência artificial (IA), dentre outros
 
 - [Python - W3Schools](https://www.w3schools.com/python/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
-- [Documentação Python](https://docs.python.org/pt-br/3/tutorial/) - Documentação oficial da linguagem Python em PT-BR
-- [Cursos de Python]()
+- [Documentação da linguagem Python](https://docs.python.org/pt-br/3/tutorial/) - Documentação oficial da linguagem Python em PT-BR
+- [Cursos de Python](https://github.com/arthurspk/guiadevbrasil#-cursos-de-python) - Cursos de Python diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ Java
 
+> Java é uma linguagem de programação orientada a objetos. O Java permite executar jogos, fazer upload de fotos, bater papo on-line, fazer tours virtuais e usar serviços, como treinamento on-line, transações bancárias on-line e mapas interativos. Se você não tiver o Java, muitas aplicações e websites simplesmente não funcionarão, aprenda Java e programe em uma qualquer plataforma: Uma das grandes vantagens do Java é que ele além de ser uma linguagem é uma plataforma de desenvolvimento. Com ele é possível desenvolver aplicações para desktop, celular, cartão, web, televisão digital, etc.
+
+- [Java - W3Schools](https://www.w3schools.com/java/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação da linguagem Java](https://docs.oracle.com/javase/8/docs/api/) - A documentação do Java encontra-se em inglês porém você pode usar uma extensão ou o google translater para traduzir
+- [Cursos de Java](https://github.com/arthurspk/guiadevbrasil#-cursos-de-java) - Cursos de Python diretamente do repositório geral do Guia Dev Brasil.
+
 ## ◾ C
+
+> C é uma linguagem de programação compilada de propósito geral, estruturada, imperativa, procedural, padronizada pela Organização Internacional para Padronização, a linguagem C pode ser facilmente encontrada em grandes jogos do mercado atual, editores de imagem e vídeo, robôs, sistemas de automação, e também muitos sistemas operacionais são programados totalmente ou parcialmente em C, como por exemplo o Windows, o Linux e o Mac OS.
+
+- [C - W3Schools](https://www.w3schools.com/c/index.php) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação da linguagem C](https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-170) - Documentação oficial da linguagem C em PT-BR
+- [Cursos de C](https://github.com/arthurspk/guiadevbrasil#-cursos-de-c-1) - Cursos de C diretamente do repositório geral do Guia Dev Brasil
 
 ## ◾ C++
 
