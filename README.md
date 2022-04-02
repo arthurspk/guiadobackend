@@ -2,12 +2,12 @@
   <a href="https://github.com/arthurspk/guiadofrontend">
     <img src="./images/guia.png" alt="Guia do Desenvolvedor Front-end" width="160" height="160">
   </a>
-  <h1 align="center">Guia do Desenvolvedor Front-end</h1>
+  <h1 align="center">Guia do Desenvolvedor Back-end</h1>
 </p>
 
 ## :dart: O guia para alavancar a sua carreira
 
-Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvolvedor front-end, caso você já atue como front-end confere o repositórios para descobrir novas ferramentas para o seu dia-a-dia, os caminhos que você pode tomar e as tecnologias para incorporar na sua stack para se tornar um profissional atualizado e diferenciado em frontend, faça bom uso do guia e bons estudos!
+Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvolvedor back-end, caso você já atue como front-end confere o repositórios para descobrir novas ferramentas para o seu dia-a-dia, os caminhos que você pode tomar e as tecnologias para incorporar na sua stack para se tornar um profissional atualizado e diferenciado no back-end, faça bom uso do guia e bons estudos!
 
 <sub> <strong>Segue nas redes sociais para acompanhar mais conteúdo: </strong> <br>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
