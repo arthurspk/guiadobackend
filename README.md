@@ -17,21 +17,28 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arthurspk/)
 </sub>
 
-## :warning: Nossa proposta
+## ⚠️ Aviso importante
 
-> A proposta deste guia é dar uma ideia sobre o atual panorama e guiá-lo se você estiver confuso sobre qual o próximo aprendizado, não influenciar você a seguir os 'hypes' e 'trendys' do momento. Acreditamos que com um <b>maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas.</b> E lembre-se, 'hypes' e 'trendys' nem sempre são as melhores opções.
+> Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguinte maneiras
+
+- Me siga no [Github](https://github.com/arthurspk)
+- Acesse as redes sociais do [Guia Dev Brasil](https://linktr.ee/guiadevbrasil)
+- Mande feedbacks no [LinkedIn](https://www.linkedin.com/in/arthurspk/)
+- Faça uma doação pelo PIX: arthurcoutinho2@hotmail.com
+
+## 💡 Nossa proposta
+
+> A proposta deste guia é fornecer conteúdos para estudo e ferramentas para guiá-lo se você estiver confuso sobre qual o próximo aprendizado, não influenciar você a seguir os 'hypes' e 'trendys' do momento. Acreditamos que com um <b>maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas.</b> E lembre-se, 'hypes' e 'trendys' nem sempre são as melhores opções.
 
 ## :beginner: Para quem está começando agora
 
-> Não se assuste com a quantidade de conteúdo apresentados neste guia. Mesmo o foco sendo para profissionais já consolidados que desejam se manter atualizados, acredito que quem está começando pode usá-lo não como um objetivo, mas como um apoio para os estudos. <b>Neste momento, dê enfoque no que te dá produtividade e o restante marque como <i>Ver depois</i></b>. Ao passo que seu conhecimento se torna mais amplo, a tendência é este guia fazer mais sentido e fácil de ser assimilado. Bons estudos e entre em contato sempre que quiser! :punch:
+> Não se assuste com a quantidade de conteúdo apresentados neste guia. Acredito que quem está começando pode usá-lo não como um objetivo, mas como um apoio para os estudos. <b>Neste momento, dê enfoque no que te dá produtividade e o restante marque como <i>Ver depois</i></b>. Ao passo que seu conhecimento se torna mais amplo, a tendência é este guia fazer mais sentido e fácil de ser assimilado. Bons estudos e entre em contato sempre que quiser! :punch:
 
 ## 🚨 Colabore
 
 - Abra Pull Requests com atualizações
 - Discuta ideias em Issues
 - Compartilhe o repositório com a sua comunidade
-- Mande feedbacks no [LinkedIn](https://www.linkedin.com/in/arthurspk/)
-- Faça uma doação pelo PIX: arthurcoutinho2@hotmail.com
 
 ## :small_blue_diamond: Back-end roadmap
 
@@ -93,6 +100,12 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Cursos de JavaScript](https://github.com/arthurspk/guiadevbrasil#-cursos-de-javascript) - Cursos de JavaScript do repositório geral do Guia Dev Brasil
 
 ## ◾ Python
+
+> Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Um dos usos do Python é automatizar tarefas, no entanto, a linguagem também permite coletar, organizar e salvar informações de páginas na internet; monitorar redes sociais; construir um site ou app; criar jogos; rodar algoritmos de machine learning; criar aplicações de inteligência artificial (IA), dentre outros
+
+- [Python - W3Schools](https://www.w3schools.com/python/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação Python](https://docs.python.org/pt-br/3/tutorial/) - Documentação oficial da linguagem Python em PT-BR
+- [Cursos de Python]()
 
 ## ◾ Java
 
