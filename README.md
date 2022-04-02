@@ -40,7 +40,33 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - Discuta ideias em Issues
 - Compartilhe o repositório com a sua comunidade
 
-## :small_blue_diamond: Back-end roadmap
+## 📚 ÍNDICE
+
+[🗺️ Back-end roadmap](#-back-end-roadmap)
+[🐧 Linux](-linux)
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+
+## 🗺️ Back-end roadmap
 
 ![Back-end Roadmap](./images/backend.jpg)
 
