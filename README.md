@@ -206,7 +206,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 > Lua é uma linguagem de programação interpretada, de script em alto nível, com tipagem dinâmica e multiparadigma, reflexiva e leve, projetada por Tecgraf da PUC-Rio em 1993 para expandir aplicações em geral, de forma extensível, para prototipagem e para ser embarcada em softwares complexos, como jogos.
 
-- [Documentação da linguagem Lua](https://www.lua.org/portugues.html#:~:text=O%20que%20%C3%A9%20Lua%3F,dados%20e%20descri%C3%A7%C3%A3o%20de%20dados.)
+- [Documentação da linguagem Lua](https://www.lua.org/portugues.html#:~:text=O%20que%20%C3%A9%20Lua%3F,dados%20e%20descri%C3%A7%C3%A3o%20de%20dados.) - Documentação oficial da linguagem Lua em PT-BR.
 - [Cursos de Lua](#) - Cursos de Lua diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ Django
@@ -283,179 +283,162 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 > Amazon Web Services, também conhecido como AWS, é uma plataforma de serviços de computação em nuvem, que formam uma plataforma de computação na nuvem oferecida pela Amazon.com. Os serviços são oferecidos em várias áreas geográficas distribuídas pelo mundo.
 
-- [AWS Cloud - W3Schools](https://www.w3schools.com/aws/index.php)
-- [Documentação do AWS](https://docs.aws.amazon.com/)
-- [Cursos de AWS](#)
+- [AWS Cloud - W3Schools](https://www.w3schools.com/aws/index.php) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação do AWS](https://docs.aws.amazon.com/) - Documentação oficial da linguagem Lua em inglês.
+- [Cursos de AWS](#) - Cursos de AWS diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ IA - Inteligência artificial
 
 > Inteligência artificial é a inteligência similar à humana exibida por sistemas de software, além de também ser um campo de estudo acadêmico.
 
-- [IA - W3Schools](https://www.w3schools.com/ai/default.asp)
-- [Inteligência artificial - O que é IA?](https://mittechreview.com.br/topicos/inteligencia-artificial/)
+- [IA - W3Schools](https://www.w3schools.com/ai/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Inteligência artificial - O que é IA?](https://mittechreview.com.br/topicos/inteligencia-artificial/) - Tópico sobre o que é inteligência artificial.
 - [Cursos de Inteligência Artificial](#)
 
 ## ◾ Machine Learning
 
 > O aprendizado automático ou a aprendizagem automática ou também aprendizado de máquina ou aprendizagem de máquina é um subcampo da Engenharia e da ciência da computação que evoluiu do estudo de reconhecimento de padrões e da teoria do aprendizado computacional em inteligência artificial.
 
-- [Machine Learning - W3Schools](https://www.w3schools.com/python/python_ml_getting_started.asp)
-- [Documentação do Azure Machine Learning](https://docs.microsoft.com/pt-br/azure/machine-learning/)
-- [Cursos de Machine Learning](#)
+- [Machine Learning - W3Schools](https://www.w3schools.com/python/python_ml_getting_started.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação do Azure Machine Learning](https://docs.microsoft.com/pt-br/azure/machine-learning/) - Documentação oficial sobre Machine Learning em PT-BR.
+- [Cursos de Machine Learning](#) - Cursos de Machine Learning diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ Data Science
 
 > Ciência de dados é uma área interdisciplinar voltada para o estudo e a análise de dados econômicos, financeiros e sociais, estruturados e não-estruturados, que visa a extração de conhecimento, detecção de padrões e/ou obtenção de insights para possíveis tomadas de decisão.
 
-- [Data Science - W3School](https://www.w3schools.com/datascience/default.asp)
-- [Ferramentas e organização em um projeto de Data Science](https://medium.com/dftblog/ferramentas-que-uso-e-como-organizo-um-projeto-de-data-science-5fd400ea26fe)
-- [Cursos de Data Science](#)
+- [Data Science - W3School](https://www.w3schools.com/datascience/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Ferramentas e organização em um projeto de Data Science](https://medium.com/dftblog/ferramentas-que-uso-e-como-organizo-um-projeto-de-data-science-5fd400ea26fe) - Ferramentas e organização para se colocar em prática em um projeto de Data Science.
+- [Cursos de Data Science](#) - Cursos de Data Science diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ NumPy
 
 > NumPy é uma biblioteca para a linguagem de programação Python, que suporta o processamento de grandes, multi-dimensionais arranjos e matrizes, juntamente com uma grande coleção de funções matemáticas de alto nível para operar sobre estas matrizes.
 
-- [NumPy - W3Schools](https://www.w3schools.com/python/numpy/default.asp)
-- [Documentação do NumPy](https://numpy.org/doc/stable/)
-- [Cursos de ](#)
+- [NumPy - W3Schools](https://www.w3schools.com/python/numpy/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação do NumPy](https://numpy.org/doc/stable/) - Documentação oficial do NumPy em inglês.
+- [Cursos de ](#) - Cursos de NumPy diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ Pandas
 
 > Em programação de computadores, pandas é uma biblioteca de software criada para a linguagem Python para manipulação e análise de dados. Em particular, oferece estruturas e operações para manipular tabelas numéricas e séries temporais. É software livre sob a licensa licença BSD.
 
-- [Pandas - W3Schools](https://www.w3schools.com/python/pandas/default.asp)
-- [Documentação do Pandas](https://pandas.pydata.org/docs/)
-- [Cursos de ](#)
+- [Pandas - W3Schools](https://www.w3schools.com/python/pandas/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação do Pandas](https://pandas.pydata.org/docs/) - Documentação oficial do Pandas em inglês.
+- [Cursos de ](#) - Cursos de Pandas diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ SciPy
 
 > SciPy é uma biblioteca Open Source em linguagem Python que foi feita para matemáticos, cientistas e engenheiros. Também tem o nome de uma popular conferência de programação científica com Python. A sua biblioteca central é NumPy que fornece uma manipulação conveniente e rápida de um array N-dimensional.
 
-- [SciPy - W3Schools](https://www.w3schools.com/python/scipy/index.php)
-- [Documentação do SciPy](https://docs.scipy.org/doc/scipy/)
-- [Cursos de ](#)
+- [SciPy - W3Schools](https://www.w3schools.com/python/scipy/index.php) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação do SciPy](https://docs.scipy.org/doc/scipy/) - Documentação oficial do SciPy em inglês.
+- [Cursos de ](#) - Cursos de SciPy diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ Matplotlib
 
 > Matplotlib é uma biblioteca de software para criação de gráficos e visualizações de dados em geral, feita para e da linguagem de programação Python e sua extensão de matemática NumPy. Originalmente criada pelo biólogo e neurocientista americano John D
 
-- [Matplotlib - W3Schools](https://www.w3schools.com/python/matplotlib_intro.asp)
-- [Documentação do Matplotlib](https://devdocs.io/matplotlib~3.1/)
-- [Cursos de ](#)
+- [Matplotlib - W3Schools](https://www.w3schools.com/python/matplotlib_intro.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação do Matplotlib](https://devdocs.io/matplotlib~3.1/) - Documentação oficial do Matplotlib em inglês.
+- [Cursos de ](#) - Cursos de Matplotlib diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ Estatística
 
 > Estatística é a ciência que utiliza as teorias probabilísticas para explicar a frequência da ocorrência de eventos, tanto em estudos observacionais quanto em experimentos para modelar a aleatoriedade e a incerteza de forma a estimar ou possibilitar a previsão de fenômenos futuros, conforme o caso.
 
-- [Estatística - W3Schools](https://www.w3schools.com/statistics/index.php)
-- [Cursos de Estatística](#)
+- [Estatística - W3Schools](https://www.w3schools.com/statistics/index.php) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Cursos de Estatística](#) - Cursos de Estatística diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ XML
 
 > XML é uma recomendação da W3C para gerar linguagens de marcação para necessidades especiais. É um dos subtipos da SGML capaz de descrever diversos tipos de dados. Seu propósito principal é a facilidade de compartilhamento de informações por intermédio da internet.
 
-- [XML - W3Schools](https://www.w3schools.com/xml/default.asp)
-- [Documentação do XML](https://docs.microsoft.com/pt-br/dotnet/fsharp/language-reference/xml-documentation#:~:text=Coment%C3%A1rios%20em%20documenta%C3%A7%C3%A3o%20XML%20s%C3%A3o,XML%20em%20tempo%20de%20compila%C3%A7%C3%A3o.)
-- [Cursos de XML](#)
+- [XML - W3Schools](https://www.w3schools.com/xml/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação do XML](https://docs.microsoft.com/pt-br/dotnet/fsharp/language-reference/xml-documentation#:~:text=Coment%C3%A1rios%20em%20documenta%C3%A7%C3%A3o%20XML%20s%C3%A3o,XML%20em%20tempo%20de%20compila%C3%A7%C3%A3o.) - Documentação oficial do XML em PT-BR.
+- [Cursos de XML](#) - Cursos de XML diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ XML AJAX
 
 > Ajax é o uso metodológico de tecnologias como Javascript e XML, providas por navegadores, para tornar páginas Web mais interativas com o usuário, utilizando-se de solicitações assíncronas de informações. Foi inicialmente desenvolvida pelo estudioso Jessé James Garret e mais tarde por diversas associações.
 
-- [XML Ajax - W3Schools](https://www.w3schools.com/xml/ajax_intro.asp)
-- [Ajax - MDN](https://developer.mozilla.org/pt-BR/docs/Web/Guide/AJAX)
-- [Cursos de Ajax](#)
+- [XML Ajax - W3Schools](https://www.w3schools.com/xml/ajax_intro.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Ajax - MDN](https://developer.mozilla.org/pt-BR/docs/Web/Guide/AJAX) - Documentação oficial do Ajax em PT-BR.
+- [Cursos de Ajax](#) - Cursos de XML Ajax diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ XML DOM
 
 > A classe do DOM (Document Object Model) XML é uma representação na memória de um documento XML. O DOM permite que você leia, manipule e modifique programaticamente um documento XML. A classe XmlReader também lê XML. No entanto, ela fornece acesso não armazenado em cache, apenas de encaminhamento e somente leitura.
 
-- [XML DOM - W3Schools](https://www.w3schools.com/xml/dom_intro.asp)
-- [Modelo de Objeto de Documento (DOM)](https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model)
-- [Cursos de DOM](#)
+- [XML DOM - W3Schools](https://www.w3schools.com/xml/dom_intro.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Modelo de Objeto de Documento (DOM)](https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model) - Documentação oficial do XML DOM em PT-BR.
+- [Cursos de DOM](#) - Cursos de XML DOM diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ XML DTD
 
 > Uma definição de tipo de documento é um conjunto de declarações de marcação que definem um tipo de documento para uma linguagem de marcação da família da SGML. Uma Definição de Tipo de Documento define os blocos de construção lícitos de um documento XML.
 
-- [XML DTD - W3Schools](https://www.w3schools.com/xml/xml_dtd_intro.asp)
-- [Documentos com DTDs](https://www.gta.ufrj.br/grad/00_1/miguel/link6.htm)
-- [Cursos de XML DTD](#)
+- [XML DTD - W3Schools](https://www.w3schools.com/xml/xml_dtd_intro.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentos com DTDs](https://www.gta.ufrj.br/grad/00_1/miguel/link6.htm) - Documentos com DTDs em PT-BR pela UFRJ.
+- [Cursos de XML DTD](#) - Cursos de XML DTD diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ XML Schema
 
 > XML Schema é uma linguagem baseada no formato XML para definição de regras de validação em documentos no formato XML. Foi a primeira linguagem de esquema para XML a obter o status de recomendação por parte do W3C. Esta linguagem é uma alternativa ao DTD, cuja sintaxe não é baseada no formato XML.
 
-- [XML Schema - W3Schools](https://www.w3schools.com/xml/schema_intro.asp)
-- [XML Schema para documentos XML](https://www.devmedia.com.br/um-estudo-sobre-o-xml-schema-para-documentos-xml/5264)
-- [Cursos de XML](#)
+- [XML Schema - W3Schools](https://www.w3schools.com/xml/schema_intro.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [XML Schema para documentos XML](https://www.devmedia.com.br/um-estudo-sobre-o-xml-schema-para-documentos-xml/5264) - Estudo sobre o XML Schema para documentos XML.
+- [Cursos de XML](#) - Cursos de XML Schema diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ XSLT
 
 > XSL Transformations, ou XSLT, é uma linguagem de marcação XML usada para criar documentos XSL que, por sua vez, definem a apresentação dos documentos XML nos browsers e outros aplicativos que os suportem. É importante observar que o documento XSL não altera o documento XML original, ou seja, não cria outro documento.
 
-- [XLST - W3Schools](https://www.w3schools.com/xml/xsl_intro.asp)
-- [Introdução ao XSLT](https://medium.com/@alexjosesilva/aplica%C3%A7%C3%B5es-com-xslt-xls-ed384482817c)
-- [Cursos de XSLT](#)
+- [XLST - W3Schools](https://www.w3schools.com/xml/xsl_intro.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Introdução ao XSLT](https://medium.com/@alexjosesilva/aplica%C3%A7%C3%B5es-com-xslt-xls-ed384482817c) - Introdução ao XSLT em PT-BR
+- [Cursos de XSLT](#) - Cursos de XSLT diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ XPath
 
 > XPath, a XML Path Language, é uma linguagem de consulta para selecionar nós de um documento XML. Ademais, XPath pode ser usada para computar valores do conteúdo de um documento XML. XPath foi definido pelo World Wide Web Consortium
 
-- [XPath - W3Schools](https://www.w3schools.com/xml/xpath_intro.asp)
-- [Documentação do XPath](https://docs.microsoft.com/pt-br/dotnet/standard/data/xml/xpath-queries-and-namespaces)
-- [Cursos de XPath](#)
+- [XPath - W3Schools](https://www.w3schools.com/xml/xpath_intro.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação do XPath](https://docs.microsoft.com/pt-br/dotnet/standard/data/xml/xpath-queries-and-namespaces) - Documentação oficial do XPath em PT-BR.
+- [Cursos de XPath](#) - Cursos de XPath diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ XQuery
 
 > XQuery é uma linguagem de consulta, com alguns recursos de programação, que é projetada para fazer consultas em coleções de dados em XML. Ela é semanticamente similar ao SQL. XQuery foi desenvolvido pelo grupo de trabalho XML Query do W3C. Foi desenvolvido em colaboração com o XSLT 2.0 pelo Grupo de Trabalho XSL.
 
-- [XQuery - W3Schools](https://www.w3schools.com/xml/xquery_intro.asp)
-- [Documentação do XQuery](https://docs.microsoft.com/pt-br/sql/xquery/xquery-language-reference-sql-server?view=sql-server-ver15)
-- [Cursos de XQuery](#)
+- [XQuery - W3Schools](https://www.w3schools.com/xml/xquery_intro.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Documentação do XQuery](https://docs.microsoft.com/pt-br/sql/xquery/xquery-language-reference-sql-server?view=sql-server-ver15) - Documentação oficial do XQuery em PT-BR.
+- [Cursos de XQuery](#) - Cursos de XQuery diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ API Rest
 
 > Representational State Transfer, em português Transferência Representacional de Estado, é um estilo de arquitetura de software que define um conjunto de restrições a serem usadas para a criação de web services.
 
-- [O que é API rest?](https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api)
-- [Cursos de API Rest](#)
+- [O que é API rest?](https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api) - O que é um API Rest e como funciona?
+- [Cursos de API Rest](#) - Cursos de API Rest diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ API Json
 
 > A API JSON é um formato que funciona com HTTP. Ele descreve como os clientes devem solicitar ou editar dados de um servidor e como o servidor deve responder a essas solicitações.
 
-- [Uma especicação para construit API'S em JSon](https://jsonapi.org/)
-- [Cursos de API Json](#)
+- [Uma especicação para construir API'S em JSon](https://jsonapi.org/) - Especificação para a construir API's em JSON
+- [Cursos de API Json](#) - Cursos de API JSON diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ Padrões de arquitetura
 
->
+> Um padrão de arquitetura é uma solução geral e reutilizável para um problema que ocorre com frequência em arquitetura de software dentro de um determinado contexto. Padrões de arquitetura são similares aos padrões de projeto de software, mas possuem um escopo mais amplo
 
-- []()
-- []()
-- []()
-
-## ◾ Principios de design e desenvolvimento
-
->
-
-- []()
-- []()
-- []()
-
-## ◾ Motores de Busca
-
->
-
-- []()
-- []()
-- []()
+- [Refactoring Guru](https://refactoring.guru/pt-br/design-patterns) - Padrões de projetos "Design patterns"
+- [Quais são os tipos de arquitetura de software e como escolher o melhor para seu projeto](https://posdigital.pucpr.br/blog/tipos-de-arquitetura-de-software) - Melhores tipos de arquitetura de software.
 
 ## ◾ Docker
 
->
+> Docker é um conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres. Os contêineres são isolados uns dos outros e agrupam seus próprios softwares, bibliotecas e arquivos de configuração.
 
-- []()
-- []()
-- []()
+- [Docker 101 Tutorial](https://www.docker.com/101-tutorial/) - Neste tutorial prático e individualizado, você aprenderá a criar imagens, executar contêineres, usar volumes para persistir dados e montar no código-fonte e definir seu aplicativo usando o Docker Compose. Você aprenderá até mesmo sobre alguns tópicos avançados, como práticas recomendadas de criação de rede e imagem.
+- [Documentação do Docker](https://docs.docker.com/) - Documentação do Docker em inglês.
+- [Cursos de Docker](#) - Cursos de Docker diretamente do repositório geral do Guia Dev Brasil.
