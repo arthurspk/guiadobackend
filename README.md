@@ -36,3 +36,150 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 ## :small_blue_diamond: Back-end roadmap
 
 ![Back-end Roadmap](./images/backend.jpg)
+
+## ◾ Linux
+
+> Linux é um termo popularmente empregado para se referir a sistemas operativos ou sistemas operacionais que utilizam o Kernel Linux. O núcleo foi desenvolvido pelo programador finlandês Linus Torvalds.
+
+- [Melhores distros linux para programadores](https://github.com/arthurspk/guiadevbrasil#-melhores-distros-linux-para-programadores) - Segue a lista das melhores distros de Linux para programadores, diretamente do arquivo geral do Guia Dev Brasil.
+- [Guia Foca](https://guiafoca.org/) - O GuiaFoca é um guia que traz desde explicações básicas sobre computadores e o sistema GNU/Linux até a administração e segurança do sistema. Os assuntos do guia são explicados em linguagem clara e organizados de forma linear e didática, evitando termos técnicos nos níveis iniciais, até que o usuário se habitue com sua utilização de forma gradual.
+- [Informações sobre distros](https://distrowatch.com/) - Informações e atualizações sobre distros.
+- [Cursos de Linux](https://pastebin.com/L3sy0k1H) - Cursos de Linux para te guiar do básico ao avançado.
+
+## ◾ Git & Github
+
+> Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
+
+- [Git - W3Schools](https://www.w3schools.com/git/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
+- [Git4Noobs](https://github.com/DanielHe4rt/git4noobs) - A ideia é ensinar para os usuários iniciantes que o Git não é nenhum "monstro" de se aprender e também ensinar como usar num ambiente onde há mais de um desenvolvedor atuando no projeto sem desorganizar ou perder algum traço de código no processo.
+- [Conhecendo os super poderes do Git](https://github.com/theandersonn/comandos-git) - Guia com seleção de comandos para o Trabalho com Git e GitHub
+- [Aprenda Git](https://learngitbranching.js.org/?locale=pt_BR) - Aprenda a utilizar o Git e seus comandos através desse site.
+- [Git School](https://git-school.github.io/visualizing-git/) - Escola do Git, várias ferramentas para treinar e aprender Git.
+- [Git Flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/) - Este cheatsheet demonstra o uso básico e o efeito das operações do git-flow
+- [Cursos de Git & Github](https://github.com/arthurspk/guiadevbrasil#-cursos-de-git-e-github) - Cursos de Git & Github do repositório geral do Guia Dev Brasil
+
+## ◾ HTTP
+
+> O Hypertext Transfer Protocol, sigla HTTP é um protocolo de comunicação utilizado para sistemas de informação de hipermídia, distribuídos e colaborativos. Ele é a base para a comunicação de dados da World Wide Web.
+
+- [MDN - HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP) - O MDN Web Docs é o website oficial de Mozilla para desenvolvimento de padrões web
+
+## ◾ APIs
+
+> O conceito de API nada mais é do que uma forma de comunicação entre sistemas. Elas permitem a integração entre dois sistemas, em que um deles fornece informações e serviços que podem ser utilizados pelo outro, sem a necessidade de o sistema que consome a API conhecer detalhes de implementação do software, as APIs permitem que o usuário final utilize um aplicativo, software ou até uma simples planilha, consultando, alterando e armazenando dados de diversos sistemas, sem que o usuário precise acessá-los diretamente.
+
+- [MDN - APIs](https://developer.mozilla.org/pt-BR/docs/Web/API) - O MDN Web Docs é o website oficial de Mozilla para desenvolvimento de padrões web
+- [APIs Públicas](https://github.com/public-apis/public-apis) - Uma lista coletiva de APIs gratuitas para uso em software e desenvolvimento web
+
+## ◾ HTML
+
+> HTML (Linguagem de Marcação de HiperTexto) é o bloco de construção mais básico da web. Define o significado e a estrutura do conteúdo da web. Outras tecnologias além do HTML geralmente são usadas para descrever a aparência/apresentação (CSS) ou a funcionalidade/comportamento (JavaScript) de uma página da web, sendo assim HTML é uma linguagem essência para você que quer se tornar desenvolvedor front-end.
+
+- [MDN - HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - O MDN Web Docs é o website oficial de Mozilla para desenvolvimento de padrões web
+- [Cursos de HTML](https://github.com/arthurspk/guiadevbrasil#-cursos-de-html-e-css) - Cursos de HTML do repositório geral do Guia Dev Brasil
+
+## ◾ CSS
+
+> CSS (Cascading Style Sheets) é um mecanismo para adicionar estilo a um documento web. O código CSS pode ser aplicado diretamente nas tags ou ficar contido dentro das tags <style>. Também é possível, em vez de colocar a formatação dentro do documento, criar um link para um arquivo CSS que contém os estilos.
+
+- [MDN - CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - O MDN Web Docs é o website oficial de Mozilla para desenvolvimento de padrões web
+- [Cursos de CSS](https://github.com/arthurspk/guiadevbrasil#-cursos-de-html-e-css) - Cursos de CSS do repositório geral do Guia Dev Brasil
+
+## ◾ JavaScript
+
+> JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
+
+- [MDN - JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - O MDN Web Docs é o website oficial de Mozilla para desenvolvimento de padrões web
+- [Cursos de JavaScript](https://github.com/arthurspk/guiadevbrasil#-cursos-de-javascript) - Cursos de JavaScript do repositório geral do Guia Dev Brasil
+
+## ◾ Python
+
+## ◾ Java
+
+## ◾ C
+
+## ◾ C++
+
+## ◾ C#
+
+## ◾ R
+
+## ◾ Kotlin
+
+## ◾ Go
+
+## ◾ PHP
+
+## ◾ Ruby
+
+## ◾ Grunt
+
+## ◾ Gulp
+
+## ◾ Lua
+
+## ◾ Django
+
+## ◾ TypeScript
+
+## ◾ Node.js
+
+## ◾ Ext.js
+
+## ◾ MongoDB
+
+## ◾ PostgreeSQL
+
+## ◾ SQL
+
+## ◾ MySQL
+
+## ◾ ASP.net
+
+## ◾ RaspberRy PI
+
+## ◾ AWS Cloud
+
+## ◾ IA - Inteligência artificial
+
+## ◾ Machine Learning
+
+## ◾ Data Science
+
+## ◾ NumPy
+
+## ◾ Pandas
+
+## ◾ SciPy
+
+## ◾ Metplotlib
+
+## ◾ Statistics
+
+## ◾ XML
+
+## ◾ XML AJAX
+
+## ◾ XML DOM
+
+## ◾ XML DTD
+
+## ◾ XML Schema
+
+## ◾ XSLT
+
+## ◾ XPath
+
+## ◾ XQuery
+
+## ◾ API Rest
+
+## ◾ API Json
+
+## ◾ Padrões de arquitetura
+
+## ◾ Principios de design e desenvolvimento
+
+## ◾ Motores de Busca
+
+## ◾ Docker
