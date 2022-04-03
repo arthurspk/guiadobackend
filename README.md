@@ -92,8 +92,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 [🦃 XQuery](#-xquery) <br>
 [🐦 API Rest](#-api-rest) <br>
 [🦅 API Json](#-api-json) <br>
-[🦚 Padrões de arquitetura](#-padrões-de-arquitetura) <br>
 [🪲 Docker](#-docker) <br>
+[🦚 Padrões de arquitetura](#-padrões-de-arquitetura) <br>
+[🛠️ Ferramentas & Desafios](#◾-ferramentas--desafios) <br>
 
 ## 🗺️ Back-end roadmap
 
@@ -483,13 +484,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Uma especicação para construir API'S em JSon](https://jsonapi.org/) - Especificação para a construir API's em JSON
 - [Cursos de API Json](#) - Cursos de API JSON diretamente do repositório geral do Guia Dev Brasil.
 
-## ◾ Padrões de arquitetura
-
-> Um padrão de arquitetura é uma solução geral e reutilizável para um problema que ocorre com frequência em arquitetura de software dentro de um determinado contexto. Padrões de arquitetura são similares aos padrões de projeto de software, mas possuem um escopo mais amplo
-
-- [Refactoring Guru](https://refactoring.guru/pt-br/design-patterns) - Padrões de projetos "Design patterns"
-- [Quais são os tipos de arquitetura de software e como escolher o melhor para seu projeto](https://posdigital.pucpr.br/blog/tipos-de-arquitetura-de-software) - Melhores tipos de arquitetura de software.
-
 ## ◾ Docker
 
 > Docker é um conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres. Os contêineres são isolados uns dos outros e agrupam seus próprios softwares, bibliotecas e arquivos de configuração.
@@ -497,3 +491,35 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Docker 101 Tutorial](https://www.docker.com/101-tutorial/) - Neste tutorial prático e individualizado, você aprenderá a criar imagens, executar contêineres, usar volumes para persistir dados e montar no código-fonte e definir seu aplicativo usando o Docker Compose. Você aprenderá até mesmo sobre alguns tópicos avançados, como práticas recomendadas de criação de rede e imagem.
 - [Documentação do Docker](https://docs.docker.com/) - Documentação do Docker em inglês.
 - [Cursos de Docker](#) - Cursos de Docker diretamente do repositório geral do Guia Dev Brasil.
+
+## ◾ Padrões de arquitetura
+
+> Um padrão de arquitetura é uma solução geral e reutilizável para um problema que ocorre com frequência em arquitetura de software dentro de um determinado contexto. Padrões de arquitetura são similares aos padrões de projeto de software, mas possuem um escopo mais amplo
+
+- [Refactoring Guru](https://refactoring.guru/pt-br/design-patterns) - Padrões de projetos "Design patterns"
+- [Quais são os tipos de arquitetura de software e como escolher o melhor para seu projeto](https://posdigital.pucpr.br/blog/tipos-de-arquitetura-de-software) - Melhores tipos de arquitetura de software.
+
+# ◾ Ferramentas & Desafios
+
+> Sites para treinar projetos back-end
+
+- [Dev Challenge Back-End](https://devchallenge.vercel.app/challenges?type=backend) - Treine suas habilidades com desafios Back-end
+- [HackerRank](https://www.hackerrank.com/) - Desafios de Programação Back-end. IDE integrada
+- [CoderByte](https://coderbyte.com/) - Desafios de Programação Back-end. IDE integrada
+- [CodeWars](https://www.codewars.com/) - Desafios de Programação Back-end. IDE integrada
+- [Coding Games](https://www.codingame.com/start) - Desafios Programação Back-end com foco em temática de jogos. IDE integrada
+- [Edabit](https://edabit.com/) - Desafios de Programação Back-end. IDE integrada
+- [ChallengeRocket](https://challengerocket.com/) - Desafios de Programação Back-end. IDE integrada
+- [CodeForces](https://codeforces.com/) - Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada
+- [CodeSignal](https://app.codesignal.com/login) - Desafios de Programação Back-end. IDE integrada
+- [Codility](https://www.codility.com/) - Desafios de Programação Back-end. IDE integrada
+- [CSES](https://cses.fi/problemset/) - Desafios de Programação Back-end. IDE integrada
+- [DailyCodingProblem](https://www.dailycodingproblem.com/) - Desafios de Programação Back-end enviados por e-mail. Solução do problema Premium
+- [Exercism.io](https://exercism.org/) - Desafios de Programação Back-end. Sem IDE integrada. Requer download de CLI.
+- [LeetCode](https://leetcode.com/) - Desafios de Programação Back-end. IDE integrada
+- [BinarySearch](https://binarysearch.com/) - Desafios de Programação Back-end. IDE integrada
+- [CodeAbbey](https://www.codeabbey.com/) - Desafios de Programação Back-end. IDE integrada
+- [ProjectEuler](https://projecteuler.net/) - Desafios de Programação Back-end focado em problemas matemáticos. IDE integrada
+- [Sphere Onlune Judge (SPOJ)](https://www.spoj.com/) - Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada
+- [TopCoder](https://www.topcoder.com/) - Desafios e Arena de Programação Back-end. IDE integrada
+- [URI/Beecrowd](https://www.beecrowd.com.br/judge/en/login) - Desafios Programação Back-end, matemáticos e SQL. IDE integrada
