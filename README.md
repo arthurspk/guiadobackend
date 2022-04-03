@@ -94,7 +94,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 [🦅 API Json](#-api-json) <br>
 [🪲 Docker](#-docker) <br>
 [🦚 Padrões de arquitetura](#-padrões-de-arquitetura) <br>
-[🛠️ Ferramentas & Desafios](#-ferramentas-&-desafios) <br>
+[🛠️ Ferramentas & Desafios](#-ferramentas-e-desafios) <br>
 
 ## 🗺️ Back-end roadmap
 
@@ -499,7 +499,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Refactoring Guru](https://refactoring.guru/pt-br/design-patterns) - Padrões de projetos "Design patterns"
 - [Quais são os tipos de arquitetura de software e como escolher o melhor para seu projeto](https://posdigital.pucpr.br/blog/tipos-de-arquitetura-de-software) - Melhores tipos de arquitetura de software.
 
-# ◾ Ferramentas & Desafios
+# ◾ Ferramentas e Desafios
 
 > Sites para treinar projetos back-end
 
