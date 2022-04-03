@@ -94,7 +94,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 [🦅 API Json](#-api-json) <br>
 [🪲 Docker](#-docker) <br>
 [🦚 Padrões de arquitetura](#-padrões-de-arquitetura) <br>
-[📚 Recomendação de livros](#recomendação-de-livros) <br>
+[📚 Recomendação de livros](#-recomendação-de-livros) <br>
 [🛠️ Ferramentas & Desafios](#-ferramentas-e-desafios) <br>
 
 ## 🗺️ Back-end roadmap
