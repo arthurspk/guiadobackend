@@ -43,55 +43,55 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 ## 📚 ÍNDICE
 
 [🗺️ Back-end roadmap](#-back-end-roadmap) <br>
-[🐧 Linux](#-linux)
-[🐵 Git & Github](#-git-&-github)
-[🐶 HTTP](#-http)
-[🐼 APIs](#-apis)
-[🐺 HTML](#-html)
-[🐱 CSS](#-css)
-[🦁 JavaScript](#-javascript)
-[🐍 Python](#-python)
-[🦊 Java](#-java)
-[🦝 C](#-c)
-[🐮 C++](#-c++)
-[🐷 C#](#-c#)
-[🐗 R](#-r)
-[🐭 Kotlin](#-kotlin)
-[🐹 Golang](#-go)
-[🐯 PHP](#-php)
-[🐰 TypeScript](#-typescript)
-[🐻 Ruby](#-ruby)
-[🐻‍❄️ Grunt](#-grunt)
-[🐨 Gulp.js](#-gulp.js)
-[🐸 Lua](#-lua)
-[🦓 Django](#-django)
-[🐴 Node.js](#-node.js)
-[🦄 Ext.js](#-ext.js)
-[🐔 MongoDB](#-mongodb)
-[🐲 PostgreeSQL](#-postgreesql)
-[🐒 SQL](#-sql)
-[🦏 MySQL](#-mysql)
-[🦬 ASP.net](#-asp.net)
-[🐈 Raspberry Pi](#-raspberry-pi)
-[🦈 AWS Cloud](#-aws-cloud)
-[🐬 Inteligência Artificial](#-inteligência-artificial)
-[🐳 Machine Learning](#-machine-learning)
-[🐋 Data Science](#-data-science)
-[🐟 NumPy](#-num-py)
-[🐠 Pandas](#-sci-py)
-[🦐 SciPy](#-matplotlib)
-[🦑 Matplotlib](#-estatística)
-[🐙 Estatística](#-xml)
-[🦞 XML](#-xml-ajax)
-[🦀 XML AJAX](#-xml-dom)
-[🐚 XML DOM](#-xml-schema)
-[🦆 XSLT](#-xslt)
-[🐓 XPath](#-xpath)
-[🦃 XQuery](#-xquery)
-[🐦 API Rest](#-api-rest)
-[🦅 API Json](#-api-json)
-[🦚 Padrões de arquitetura](#-padrões-de-arquitetura)
-[🪲 Docker](#-docker)
+[🐧 Linux](#-linux) <br>
+[🐵 Git & Github](#-git-&-github) <br>
+[🐶 HTTP](#-http) <br>
+[🐼 APIs](#-apis) <br>
+[🐺 HTML](#-html) <br>
+[🐱 CSS](#-css) <br>
+[🦁 JavaScript](#-javascript) <br>
+[🐍 Python](#-python) <br>
+[🦊 Java](#-java) <br>
+[🦝 C](#-c) <br>
+[🐮 C++](#-c++) <br>
+[🐷 C#](#-c#) <br>
+[🐗 R](#-r) <br>
+[🐭 Kotlin](#-kotlin) <br>
+[🐹 Golang](#-go) <br>
+[🐯 PHP](#-php) <br>
+[🐰 TypeScript](#-typescript) <br>
+[🐻 Ruby](#-ruby) <br>
+[🐻‍❄️ Grunt](#-grunt) <br>
+[🐨 Gulp.js](#-gulp.js) <br>
+[🐸 Lua](#-lua) <br>
+[🦓 Django](#-django) <br>
+[🐴 Node.js](#-node.js) <br>
+[🦄 Ext.js](#-ext.js) <br>
+[🐔 MongoDB](#-mongodb) <br>
+[🐲 PostgreeSQL](#-postgreesql) <br>
+[🐒 SQL](#-sql) <br>
+[🦏 MySQL](#-mysql) <br>
+[🦬 ASP.net](#-asp.net) <br>
+[🐈 Raspberry Pi](#-raspberry-pi) <br>
+[🦈 AWS Cloud](#-aws-cloud) <br>
+[🐬 Inteligência Artificial](#-inteligência-artificial) <br>
+[🐳 Machine Learning](#-machine-learning) <br>
+[🐋 Data Science](#-data-science) <br>
+[🐟 NumPy](#-num-py) <br>
+[🐠 Pandas](#-sci-py) <br>
+[🦐 SciPy](#-matplotlib) <br>
+[🦑 Matplotlib](#-estatística) <br>
+[🐙 Estatística](#-xml) <br>
+[🦞 XML](#-xml-ajax) <br>
+[🦀 XML AJAX](#-xml-dom) <br>
+[🐚 XML DOM](#-xml-schema) <br>
+[🦆 XSLT](#-xslt) <br>
+[🐓 XPath](#-xpath) <br>
+[🦃 XQuery](#-xquery) <br>
+[🐦 API Rest](#-api-rest) <br>
+[🦅 API Json](#-api-json) <br>
+[🦚 Padrões de arquitetura](#-padrões-de-arquitetura) <br>
+[🪲 Docker](#-docker) <br>
 
 ## 🗺️ Back-end roadmap
 
