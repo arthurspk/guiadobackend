@@ -346,7 +346,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 - [IA - W3Schools](https://www.w3schools.com/ai/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
 - [Inteligência artificial - O que é IA?](https://mittechreview.com.br/topicos/inteligencia-artificial/) - Tópico sobre o que é inteligência artificial.
-- [Cursos de Inteligência Artificial](#)
+- [Cursos de Inteligência Artificial](#) - Cursos de Inteligência Artificial diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ Machine Learning
 
