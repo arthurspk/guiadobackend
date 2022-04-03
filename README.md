@@ -77,16 +77,16 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 [🐬 Inteligência Artificial](#-inteligência-artificial) <br>
 [🐳 Machine Learning](#-machine-learning) <br>
 [🐋 Data Science](#-data-science) <br>
-[🐟 NumPy](#-num-py) <br>
+[🐟 NumPy](#-numpy) <br>
 [🐠 Pandas](#-pandas) <br>
-[🦐 SciPy](#-sci-py) <br>
+[🦐 SciPy](#-scipy) <br>
 [🦑 Matplotlib](#-matplotlib) <br>
 [🐙 Estatística](#-estatística) <br>
 [🦞 XML](#-xml) <br>
 [🕷️ XML AJAX](#-xml-ajax) <br>
+[🦉 XML DOM](#-xml-dom) <br>
 [🐞 XML DTD](#-xml-dtd) <br>
 [🦂 XML Schema](#-xml-schema) <br>
-[🦉 XML DOM](#-xml-schema) <br>
 [🦆 XSLT](#-xslt) <br>
 [🐓 XPath](#-xpath) <br>
 [🦃 XQuery](#-xquery) <br>
