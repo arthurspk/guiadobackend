@@ -78,12 +78,14 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 [🐳 Machine Learning](#-machine-learning) <br>
 [🐋 Data Science](#-data-science) <br>
 [🐟 NumPy](#-num-py) <br>
-[🐠 Pandas](#-sci-py) <br>
-[🦐 SciPy](#-matplotlib) <br>
-[🦑 Matplotlib](#-estatística) <br>
-[🐙 Estatística](#-xml) <br>
-[🦞 XML](#-xml-ajax) <br>
-[🕷️ XML AJAX](#-xml-dom) <br>
+[🐠 Pandas](#-pandas) <br>
+[🦐 SciPy](#-sci-py) <br>
+[🦑 Matplotlib](#-matplotlib) <br>
+[🐙 Estatística](#-estatística) <br>
+[🦞 XML](#-xml) <br>
+[🕷️ XML AJAX](#-xml-ajax) <br>
+[🐞 XML DTD](#-xml-dtd)
+[🦂 XML Schema](#-xml-schema)
 [🦉 XML DOM](#-xml-schema) <br>
 [🦆 XSLT](#-xslt) <br>
 [🐓 XPath](#-xpath) <br>
