@@ -374,7 +374,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 - [NumPy - W3Schools](https://www.w3schools.com/python/numpy/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
 - [Documentação do NumPy](https://numpy.org/doc/stable/) - Documentação oficial do NumPy em inglês.
-- [Cursos de ](#) - Cursos de NumPy diretamente do repositório geral do Guia Dev Brasil.
+- [Cursos de NumPy](#) - Cursos de NumPy diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ Pandas
 
@@ -382,7 +382,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 - [Pandas - W3Schools](https://www.w3schools.com/python/pandas/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
 - [Documentação do Pandas](https://pandas.pydata.org/docs/) - Documentação oficial do Pandas em inglês.
-- [Cursos de ](#) - Cursos de Pandas diretamente do repositório geral do Guia Dev Brasil.
+- [Cursos de Pandas](#) - Cursos de Pandas diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ SciPy
 
@@ -390,7 +390,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 - [SciPy - W3Schools](https://www.w3schools.com/python/scipy/index.php) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
 - [Documentação do SciPy](https://docs.scipy.org/doc/scipy/) - Documentação oficial do SciPy em inglês.
-- [Cursos de ](#) - Cursos de SciPy diretamente do repositório geral do Guia Dev Brasil.
+- [Cursos de SciPy](#) - Cursos de SciPy diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ Matplotlib
 
@@ -398,7 +398,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 - [Matplotlib - W3Schools](https://www.w3schools.com/python/matplotlib_intro.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
 - [Documentação do Matplotlib](https://devdocs.io/matplotlib~3.1/) - Documentação oficial do Matplotlib em inglês.
-- [Cursos de ](#) - Cursos de Matplotlib diretamente do repositório geral do Guia Dev Brasil.
+- [Cursos de Matplotlib](#) - Cursos de Matplotlib diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ Estatística
 
