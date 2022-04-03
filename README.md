@@ -44,27 +44,54 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 [🗺️ Back-end roadmap](#-back-end-roadmap) <br>
 [🐧 Linux](#-linux)
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[🐵 Git & Github](#-git-&-github)
+[🐶 HTTP](#-http)
+[🐼 APIs](#-apis)
+[🐺 HTML](#-html)
+[🐱 CSS](#-css)
+[🦁 JavaScript](#-javascript)
+[🐍 Python](#-python)
+[🦊 Java](#-java)
+[🦝 C](#-c)
+[🐮 C++](#-c++)
+[🐷 C#](#-c#)
+[🐗 R](#-r)
+[🐭 Kotlin](#-kotlin)
+[🐹 Golang](#-go)
+[🐯 PHP](#-php)
+[🐰 TypeScript](#-typescript)
+[🐻 Ruby](#-ruby)
+[🐻‍❄️ Grunt](#-grunt)
+[🐨 Gulp.js](#-gulp.js)
+[🐸 Lua](#-lua)
+[🦓 Django](#-django)
+[🐴 Node.js](#-node.js)
+[🦄 Ext.js](#-ext.js)
+[🐔 MongoDB](#-mongodb)
+[🐲 PostgreeSQL](#-postgreesql)
+[🐒 SQL](#-sql)
+[🦏 MySQL](#-mysql)
+[🦬 ASP.net](#-asp.net)
+[🐈 Raspberry Pi](#-raspberry-pi)
+[🦈 AWS Cloud](#-aws-cloud)
+[🐬 Inteligência Artificial](#-inteligência-artificial)
+[🐳 Machine Learning](#-machine-learning)
+[🐋 Data Science](#-data-science)
+[🐟 NumPy](#-num-py)
+[🐠 Pandas](#-sci-py)
+[🦐 SciPy](#-matplotlib)
+[🦑 Matplotlib](#-estatística)
+[🐙 Estatística](#-xml)
+[🦞 XML](#-xml-ajax)
+[🦀 XML AJAX](#-xml-dom)
+[🐚 XML DOM](#-xml-schema)
+[🦆 XSLT](#-xslt)
+[🐓 XPath](#-xpath)
+[🦃 XQuery](#-xquery)
+[🐦 API Rest](#-api-rest)
+[🦅 API Json](#-api-json)
+[🦚 Padrões de arquitetura](#-padrões-de-arquitetura)
+[🪲 Docker](#-docker)
 
 ## 🗺️ Back-end roadmap
 
@@ -297,7 +324,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Documentação do ASP.net](https://docs.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-6.0) - Documentação Oficial do PostgreeSQL em PT-BR.
 - [Cursos de ASP.net](#) - Cursos de ASP.net diretamente do repositório geral do Guia Dev Brasil.
 
-## ◾ RaspberRy Pi
+## ◾ Raspberry Pi
 
 > Raspberry Pi é uma série de mini-computadores de placa única multiplataforma, de tamanho reduzido com componentes integrados, que se conecta a um monitor de computador ou televisão, e usa um teclado e um mouse padrão.
 
@@ -313,7 +340,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Documentação do AWS](https://docs.aws.amazon.com/) - Documentação oficial da linguagem Lua em inglês.
 - [Cursos de AWS](#) - Cursos de AWS diretamente do repositório geral do Guia Dev Brasil.
 
-## ◾ IA - Inteligência artificial
+## ◾ Inteligência artificial
 
 > Inteligência artificial é a inteligência similar à humana exibida por sistemas de software, além de também ser um campo de estudo acadêmico.
 
