@@ -62,16 +62,16 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 [🐰 TypeScript](#-typescript) <br>
 [🐻 Ruby](#-ruby) <br>
 [🐻‍❄️ Grunt](#-grunt) <br>
-[🐨 Gulp.js](#-gulp.js) <br>
+[🐨 Gulp.js](#-gulp-js) <br>
 [🐸 Lua](#-lua) <br>
 [🦓 Django](#-django) <br>
-[🐴 Node.js](#-node.js) <br>
-[🦄 Ext.js](#-ext.js) <br>
+[🐴 Node.js](#-node-js) <br>
+[🦄 Ext.js](#-ext-js) <br>
 [🐔 MongoDB](#-mongodb) <br>
 [🐲 PostgreeSQL](#-postgreesql) <br>
 [🐒 SQL](#-sql) <br>
 [🦏 MySQL](#-mysql) <br>
-[🦬 ASP.net](#-asp.net) <br>
+[🦬 ASP.net](#-asp-net) <br>
 [🐈 Raspberry Pi](#-raspberry-pi) <br>
 [🦈 AWS Cloud](#-aws-cloud) <br>
 [🐬 Inteligência Artificial](#-inteligência-artificial) <br>
@@ -250,7 +250,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Documentação do Grunt](https://gruntjs.com/getting-started) - Documentação oficial do Grunt em inglês.
 - [Cursos de Grunt](#) - Cursos de Grunt diretamente do repositório geral do Guia Dev Brasil.
 
-## ◾ Gulp.js
+## ◾ Gulp js
 
 > Gulp. js é uma ferramenta de automação de tarefas em JavaScript. Tarefas como minificar, otimizar e compilar arquivos, tão repetitivas e necessárias ao desenvolvimento, podem ser automatizadas com o Gulp.
 
@@ -272,7 +272,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Documentação do Django](https://docs.djangoproject.com/en/4.0/) - Documentação do Django em inglês.
 - [Cursos de Django](#) - Cursos de Django diretamente do repositório geral do Guia Dev Brasil.
 
-## ◾ Node.js
+## ◾ Node JS
 
 > O Node. js é um ambiente de execução na porta 80 padrão,baseado na pilha da web aberta (HTML, CSS e JS). Ou seja, é uma plataforma em que é possível criar aplicações Javascript sem depender de um browser para a execução. Sua execução em single-thread não exige resposta a cada requisição.
 
@@ -280,7 +280,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Documentação do Node.js](https://nodejs.org/en/docs/) - Documentação do Node.js em inglês.
 - [Cursos de Node.js](#) - Cursos de Node.js diretamente do repositório geral do Guia Dev Brasil.
 
-## ◾ Ext.js
+## ◾ Ext JS
 
 > ExtJS é um framework de aplicações Java Script puro que funciona em qualquer Browser, desde do IE6 para até a mais recente versão do Chrome. Ele permite que você criar as melhores aplicações multiplataformas usando nada além de um Browser, e tem uma API fenomenal.
 
@@ -318,7 +318,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Documentação do MySQL](https://dev.mysql.com/doc/) - Documentação Oficial do MySQL em inglês
 - [Cursos de MySQL](#) - Cursos de MySQL diretamente do repositório geral do Guia Dev Brasil.
 
-## ◾ ASP.net
+## ◾ ASP net
 
 > ASP.NET é a plataforma da Microsoft para o desenvolvimento de aplicações Web e é o sucessor da tecnologia ASP. Permite, através de uma linguagem de programação integrada na .NET Framework, criar páginas dinâmicas. Não é nem uma linguagem de programação como VBScript, PHP, nem um servidor web como IIS ou Apache.
 
