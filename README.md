@@ -52,9 +52,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 [🦁 JavaScript](#-javascript) <br>
 [🐍 Python](#-python) <br>
 [🦊 Java](#-java) <br>
-[🦝 C](#-c-1) <br>
-[🐮 C++](#-c-2) <br>
-[🐷 C#](#-c) <br>
+[🦝 C](#-c) <br>
+[🐮 C++](#-c-1) <br>
+[🐷 C#](#-c-2) <br>
 [🐗 R](#-r) <br>
 [🐭 Kotlin](#-kotlin) <br>
 [🐹 Golang](#-go) <br>
