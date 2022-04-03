@@ -500,7 +500,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Refactoring Guru](https://refactoring.guru/pt-br/design-patterns) - Padrões de projetos "Design patterns"
 - [Quais são os tipos de arquitetura de software e como escolher o melhor para seu projeto](https://posdigital.pucpr.br/blog/tipos-de-arquitetura-de-software) - Melhores tipos de arquitetura de software.
 
-## 📚 Recomendação de livros
+## ◾ Recomendação de livros
 
 - [Clean Code - Código Limpo](https://g.co/kgs/62wx9t)
 - [Refactoring - Refatoração](https://g.co/kgs/Hf2eY3)
