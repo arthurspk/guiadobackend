@@ -84,8 +84,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 [🐙 Estatística](#-estatística) <br>
 [🦞 XML](#-xml) <br>
 [🕷️ XML AJAX](#-xml-ajax) <br>
-[🐞 XML DTD](#-xml-dtd)
-[🦂 XML Schema](#-xml-schema)
+[🐞 XML DTD](#-xml-dtd) <br>
+[🦂 XML Schema](#-xml-schema) <br>
 [🦉 XML DOM](#-xml-schema) <br>
 [🦆 XSLT](#-xslt) <br>
 [🐓 XPath](#-xpath) <br>
