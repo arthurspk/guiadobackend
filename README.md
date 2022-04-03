@@ -83,8 +83,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 [🦑 Matplotlib](#-estatística) <br>
 [🐙 Estatística](#-xml) <br>
 [🦞 XML](#-xml-ajax) <br>
-[🦀 XML AJAX](#-xml-dom) <br>
-[🐚 XML DOM](#-xml-schema) <br>
+[🕷️ XML AJAX](#-xml-dom) <br>
+[🦉 XML DOM](#-xml-schema) <br>
 [🦆 XSLT](#-xslt) <br>
 [🐓 XPath](#-xpath) <br>
 [🦃 XQuery](#-xquery) <br>
