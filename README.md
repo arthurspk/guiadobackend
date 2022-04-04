@@ -349,6 +349,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 - [AWS Cloud - W3Schools](https://www.w3schools.com/aws/index.php) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
 - [Documentação do AWS](https://docs.aws.amazon.com/) - Documentação oficial da linguagem Lua em inglês.
+- [AWS Cloud - Escola da Nuvem](https://www.escoladanuvem.org/cursos/fundamentos-aws/) - A Escola da Nuvem é uma organização da sociedade civil, sem fins lucrativos, que prepara estudantes para carreiras na nuvem e os conecta a empregadores em potencial.
 - [Cursos de AWS](#) - Cursos de AWS diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ Inteligência artificial
