@@ -24,7 +24,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - Me siga no [Github](https://github.com/arthurspk)
 - Acesse as redes sociais do [Guia Dev Brasil](https://linktr.ee/guiadevbrasil)
 - Mande feedbacks no [LinkedIn](https://www.linkedin.com/in/arthurspk/)
-- Faça uma doação pelo PIX: arthurcoutinho2@hotmail.com
 
 ## 📛 Direitos autorais
 
