@@ -326,6 +326,15 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Documentação do MySQL](https://dev.mysql.com/doc/) - Documentação Oficial do MySQL em inglês
 - [Cursos de MySQL](#) - Cursos de MySQL diretamente do repositório geral do Guia Dev Brasil.
 
+## ◾ Nestjs
+
+> O Nestjs é um framework que permite criar aplicações node eficientes e escalaveis. Utiliza Express por debaixo dos panos, porém também é compativel com Fastify. Sua arquitetura lembra muito a do Angular.
+
+- [Nest](https://docs.nestjs.com/) - Documentação oficial.
+- [Treina Web](https://www.treinaweb.com.br/blog/o-que-e-nestjs) - Hellow World com Nest.
+- [EZDevs](https://ezdevs.com.br/nestjs-introducao-e-aplicacao-de-crud/) - Tutorial basico de um CRUD com Nest e Mongo.
+- [Youtube](https://www.youtube.com/watch?v=PHIMN85trgk) - Video tutorial do basico ao avançado (Para iniciantes).
+
 ## ◾ ASP net
 
 > ASP.NET é a plataforma da Microsoft para o desenvolvimento de aplicações Web e é o sucessor da tecnologia ASP. Permite, através de uma linguagem de programação integrada na .NET Framework, criar páginas dinâmicas. Não é nem uma linguagem de programação como VBScript, PHP, nem um servidor web como IIS ou Apache.
