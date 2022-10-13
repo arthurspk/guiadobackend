@@ -191,6 +191,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 - [Java - W3Schools](https://www.w3schools.com/java/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
 - [Documentação da linguagem Java](https://docs.oracle.com/javase/8/docs/api/) - A documentação do Java encontra-se em inglês porém você pode usar uma extensão ou o google translater para traduzir
+- [Aprenda programação Java em detalhes - Scaler Topics](https://www.scaler.com/topics/java/) - Scaler Topics fornece artigos de programação relacionados a Python, Java, Estrutura de Dados, C/C++ e outras linguagens de programação populares com tutoriais fáceis de seguir e programas de exemplo.
 - [Cursos de Java](https://github.com/arthurspk/guiadevbrasil#-cursos-de-java) - Cursos de Java diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ C
