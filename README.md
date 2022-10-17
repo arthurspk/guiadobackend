@@ -209,6 +209,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [C++ - W3Schools](https://www.w3schools.com/cpp/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
 - [Documentação da linguagem C++](https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-170) - Documentação oficial da linguagem C++ em PT-BR
 - [Cursos de C++](https://github.com/arthurspk/guiadevbrasil#-cursos-de-c-2) - Cursos de C++ diretamente do repositório geral do Guia Dev Brasil
+- [Tutorial de C++ para iniciantes](https://www.scaler.com/topics/css) - Aprenda C++ para iniciantes. Este tutorial consiste em tópicos C++ passo a passo completos.  
 
 ## ◾ C#
 
@@ -218,7 +219,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [C# - W3Schools](https://www.w3schools.com/cs/index.php) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
 - [Documentação da linguagem C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Documentação oficial da linguagem C# em PT-BR
 - [Cursos de C#](https://github.com/arthurspk/guiadevbrasil#-cursos-de-c) - Cursos de C# diretamente do repositório geral do Guia Dev Brasil
-- [Tutorial de C++ para iniciantes](https://www.scaler.com/topics/css) - Aprenda C++ para iniciantes. Este tutorial consiste em tópicos C++ passo a passo completos.
 
 ## ◾ R
 
