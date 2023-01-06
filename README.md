@@ -89,7 +89,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 [🐴 Node.js](#-node-js) <br>
 [🦄 Ext.js](#-ext-js) <br>
 [🐔 MongoDB](#-mongodb) <br>
-[🐲 PostgreeSQL](#-postgreesql) <br>
+[🐲 PostgreSQL](#-postgresql) <br>
 [🐒 SQL](#-sql) <br>
 [🦏 MySQL](#-mysql) <br>
 [🦬 ASP.net](#-asp-net) <br>
@@ -319,13 +319,13 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Documentação do MongoDB](https://www.mongodb.com/docs/) - Documentação Oficial do MongoDB em inglês.
 - [Cursos de MongoDB](#) - Cursos de MongoDB diretamente do repositório geral do Guia Dev Brasil.
 
-## ◾ PostgreeSQL
+## ◾ PostgreSQL
 
 > PostgreSQL é um sistema gerenciador de banco de dados objeto-relacional baseado no POSTGRES, Versão 4.2, desenvolvido na Universidade da Califórnia no Departamento de Ciências da Computação em Berkeley, o qual foi pioneiro em muitos conceitos que vieram a estar disponíveis em alguns bancos de dados comerciais mais tarde.
 
-- [Documentação do PostgreeSQL](https://www.postgresql.org/docs/) - Documentação Oficial do PostgreeSQL em inglês
-- [Documentação do PostgreeSQL em PT-BR](https://ftp.unicamp.br/pub/apoio/postgresql/pgdocptbr800-1.2.pdf) - Documentação do PostgreeSQL em PT-BR
-- [Cursos de PostgreeSQL](#) - Cursos de PostgreeSQL diretamente do repositório geral do Guia Dev Brasil.
+- [Documentação do PostgreSQL](https://www.postgresql.org/docs/) - Documentação Oficial do PostgreSQL em inglês
+- [Documentação do PostgreSQL em PT-BR](https://ftp.unicamp.br/pub/apoio/postgresql/pgdocptbr800-1.2.pdf) - Documentação do PostgreSQL em PT-BR
+- [Cursos de PostgreSQL](#) - Cursos de PostgreSQL diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ SQL
 
@@ -357,7 +357,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 > ASP.NET é a plataforma da Microsoft para o desenvolvimento de aplicações Web e é o sucessor da tecnologia ASP. Permite, através de uma linguagem de programação integrada na .NET Framework, criar páginas dinâmicas. Não é nem uma linguagem de programação como VBScript, PHP, nem um servidor web como IIS ou Apache.
 
 - [ASP - W3Schools](https://www.w3schools.com/asp/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
-- [Documentação do ASP.net](https://docs.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-6.0) - Documentação Oficial do PostgreeSQL em PT-BR.
+- [Documentação do ASP.net](https://docs.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-6.0) - Documentação Oficial do ASP net em PT-BR.
 - [Cursos de ASP.net](#) - Cursos de ASP.net diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ Raspberry Pi
@@ -365,7 +365,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 > Raspberry Pi é uma série de mini-computadores de placa única multiplataforma, de tamanho reduzido com componentes integrados, que se conecta a um monitor de computador ou televisão, e usa um teclado e um mouse padrão.
 
 - [Raspberry Pi - W3Schools](https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
-- [Documentação do Raspberry Pi](https://www.raspberrypi.com/documentation/) - Documentação Oficial do PostgreeSQL em inglês
+- [Documentação do Raspberry Pi](https://www.raspberrypi.com/documentation/) - Documentação Oficial do Raspberry Pi em inglês
 - [Curso de Raspberry Pi](#) - Cursos de Raspberry Pi diretamente do repositório geral do Guia Dev Brasil.
 
 ## ◾ AWS Cloud
