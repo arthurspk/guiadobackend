@@ -100,11 +100,11 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 [🐲 PostgreeSQL](#-postgreesql) <br>
 [🐒 SQL](#-sql) <br>
 [🦏 MySQL](#-mysql) <br>
-[🦬 ASP.net](#-asp-net) <br>
+[🐤 ASP.net](#-asp-net) <br>
 [🐈 Raspberry Pi](#-raspberry-pi) <br>
 [🦈 AWS Cloud](#-aws-cloud) <br>
 [🐬 Inteligência Artificial](#-inteligência-artificial) <br>
-[🐳 Machine Learning](#-machine-learning) <br>
+[🐩 Machine Learning](#-machine-learning) <br>
 [🐋 Data Science](#-data-science) <br>
 [🐟 NumPy](#-numpy) <br>
 [🐠 Pandas](#-pandas) <br>
@@ -121,7 +121,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 [🦃 XQuery](#-xquery) <br>
 [🐦 API Rest](#-api-rest) <br>
 [🦅 API Json](#-api-json) <br>
-[🪲 Docker](#-docker) <br>
+[🐳 Docker](#-docker) <br>
 [🦚 Padrões de arquitetura](#-padrões-de-arquitetura) <br>
 [📚 Recomendação de livros](#-recomendação-de-livros) <br>
 [🛠️ Ferramentas & Desafios](#-ferramentas-e-desafios) <br>
